@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4DBF8BC-87BB-4FFF-BFAC-ABAC5A65C4D0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAE0F657-35B9-45E8-A225-EE2B7A67520C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmDB MVP/Views/RealmVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "buttonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DAE0F657-35B9-45E8-A225-EE2B7A67520C - 6bfd65cbcafb7aef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmDB_MVP.RealmVc.buttonTapped() -&gt; ()"
+                  moduleName = "RealmDB MVP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alishertulembekov/Desktop/swift/RealmDB%20MVP/RealmDB%20MVP/Views/RealmVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "1460">
+               </Location>
+               <Location
+                  uuid = "DAE0F657-35B9-45E8-A225-EE2B7A67520C - 6bfd65cbcafb7aef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmDB_MVP.RealmVc.buttonTapped() -&gt; ()"
+                  moduleName = "RealmDB MVP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alishertulembekov/Desktop/swift/RealmDB%20MVP/RealmDB%20MVP/Views/RealmVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "1412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EFACE03-8346-49D9-992C-9A4710B4C06D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmDB MVP/Presentors/FullNamesPresentor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "buttonTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
